@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dedé\\source\\repos\\aula2\\Aula2\\Aula2.csproj": {}
+    "C:\\Users\\dedé\\source\\repos\\aula2\\Criptografia\\Criptografia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dedé\\source\\repos\\aula2\\Aula2\\Aula2.csproj": {
+    "C:\\Users\\dedé\\source\\repos\\aula2\\Criptografia\\Criptografia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dedé\\source\\repos\\aula2\\Aula2\\Aula2.csproj",
-        "projectName": "Aula2",
-        "projectPath": "C:\\Users\\dedé\\source\\repos\\aula2\\Aula2\\Aula2.csproj",
+        "projectUniqueName": "C:\\Users\\dedé\\source\\repos\\aula2\\Criptografia\\Criptografia.csproj",
+        "projectName": "Criptografia",
+        "projectPath": "C:\\Users\\dedé\\source\\repos\\aula2\\Criptografia\\Criptografia.csproj",
         "packagesPath": "C:\\Users\\dedé\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dedé\\source\\repos\\aula2\\Aula2\\obj\\",
+        "outputPath": "C:\\Users\\dedé\\source\\repos\\aula2\\Criptografia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

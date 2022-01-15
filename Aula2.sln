@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{A15C19A3-48FF-445F-B569-44CC603161C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula2", "Aula2\Aula2.csproj", "{A15C19A3-48FF-445F-B569-44CC603161C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "Criptografia\Criptografia.csproj", "{E3FBD96A-C761-4934-A986-CCE6329861A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manipulaçãodetexto", "Manipulaçãodetexto\Manipulaçãodetexto.csproj", "{A29D2F16-1BF4-41BC-9037-1A6E256134FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioCondicionais", "ExercicioCondicionais\ExercicioCondicionais.csproj", "{6CF25A1B-64C5-4670-AF67-B09F297CF546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lacosrepeticao", "Lacosrepeticao\Lacosrepeticao.csproj", "{4D2E545C-9241-41FB-B2C4-E8E1A4297C24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{A15C19A3-48FF-445F-B569-44CC603161C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A15C19A3-48FF-445F-B569-44CC603161C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A15C19A3-48FF-445F-B569-44CC603161C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FBD96A-C761-4934-A986-CCE6329861A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FBD96A-C761-4934-A986-CCE6329861A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FBD96A-C761-4934-A986-CCE6329861A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FBD96A-C761-4934-A986-CCE6329861A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29D2F16-1BF4-41BC-9037-1A6E256134FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29D2F16-1BF4-41BC-9037-1A6E256134FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29D2F16-1BF4-41BC-9037-1A6E256134FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29D2F16-1BF4-41BC-9037-1A6E256134FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF25A1B-64C5-4670-AF67-B09F297CF546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF25A1B-64C5-4670-AF67-B09F297CF546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF25A1B-64C5-4670-AF67-B09F297CF546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF25A1B-64C5-4670-AF67-B09F297CF546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2E545C-9241-41FB-B2C4-E8E1A4297C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2E545C-9241-41FB-B2C4-E8E1A4297C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2E545C-9241-41FB-B2C4-E8E1A4297C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2E545C-9241-41FB-B2C4-E8E1A4297C24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

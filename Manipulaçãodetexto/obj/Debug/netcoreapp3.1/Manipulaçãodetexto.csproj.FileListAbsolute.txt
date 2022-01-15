@@ -1,0 +1,14 @@
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.AssemblyInfoInputs.cache
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.AssemblyInfo.cs
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.csproj.CoreCompileInputs.cache
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\bin\Debug\netcoreapp3.1\Manipulaçãodetexto.exe
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\bin\Debug\netcoreapp3.1\Manipulaçãodetexto.deps.json
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\bin\Debug\netcoreapp3.1\Manipulaçãodetexto.runtimeconfig.json
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\bin\Debug\netcoreapp3.1\Manipulaçãodetexto.runtimeconfig.dev.json
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\bin\Debug\netcoreapp3.1\Manipulaçãodetexto.dll
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\bin\Debug\netcoreapp3.1\Manipulaçãodetexto.pdb
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.dll
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.pdb
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.genruntimeconfig.cache
+C:\Users\dedé\source\repos\aula2\Manipulaçãodetexto\obj\Debug\netcoreapp3.1\Manipulaçãodetexto.csproj.AssemblyReference.cache

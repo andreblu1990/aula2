@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace Aula2
+namespace Lacosrepeticao
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var 
         }
     }
 }

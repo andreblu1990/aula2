@@ -1,0 +1,14 @@
+C:\Users\dedé\source\repos\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.exe
+C:\Users\dedé\source\repos\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.deps.json
+C:\Users\dedé\source\repos\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.json
+C:\Users\dedé\source\repos\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.dev.json
+C:\Users\dedé\source\repos\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\dedé\source\repos\aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.AssemblyReference.cache
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfoInputs.cache
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfo.cs
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\dedé\source\repos\aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.genruntimeconfig.cache

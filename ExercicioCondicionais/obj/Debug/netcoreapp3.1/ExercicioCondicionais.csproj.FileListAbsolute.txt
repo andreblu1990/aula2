@@ -1,0 +1,13 @@
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.exe
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.deps.json
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.runtimeconfig.json
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.runtimeconfig.dev.json
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.dll
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\bin\Debug\netcoreapp3.1\ExercicioCondicionais.pdb
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.AssemblyInfoInputs.cache
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.AssemblyInfo.cs
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.dll
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.pdb
+C:\Users\dedé\source\repos\aula2\ExercicioCondicionais\obj\Debug\netcoreapp3.1\ExercicioCondicionais.genruntimeconfig.cache
